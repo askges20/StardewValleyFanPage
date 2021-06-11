@@ -1,0 +1,13 @@
+.normalText{
+	font-family: 'Do Hyeon', sans-serif;
+	text-align: center;
+}
+
+.title{
+	font-size: 4em;
+}
+
+.box{
+	background-color: white;
+	box-shadow: 5px 5px 10px black; 
+}
